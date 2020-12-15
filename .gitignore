@@ -1,0 +1,11 @@
+/.git/
+/.metadata/
+/.recommenders/
+*/.settings/
+*/bin/
+.classpath
+.project
+*/target/
+*/doc/
+*.txt
+*.zip
